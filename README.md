@@ -1,14 +1,39 @@
-Project Description
-A high-performance personal portfolio engineered with React JS and Tailwind CSS v4. This site serves as a technical showcase for my work as a Computer Science undergraduate at Rajiv Gandhi Institute of Technology (RIT). It features a Formula 1-inspired UI to represent speed, precision, and engineering excellence in software development.
+# Personal Portfolio Website
 
-Tech Stack Used
-Framework: React JS (Vite)
+A high-performance personal portfolio engineered with **React JS** and **Tailwind CSS v4**.  
+This project serves as a technical showcase of my work as a **Computer Science undergraduate at Rajiv Gandhi Institute of Technology (RIT)**.
 
-Styling: Tailwind CSS v4 (CSS-first configuration)
+The UI is inspired by **Formula 1 design principles**, representing **speed, precision, and engineering excellence** in modern software development.
 
-Icons: Lucide React
+---
 
-Deployment: Vercel / Netlify
+## 🔥 Features
 
-Live URL
-🔗 View My Portfolio (Update with your live link)
+-  Fast and responsive UI built with Vite
+-  Formula 1–inspired modern design
+-  Clean and minimal Tailwind CSS v4 styling
+-  Fully responsive across devices
+-  Modular and reusable React components
+
+---
+
+## 🛠 Tech Stack
+
+- **Framework:** React JS (Vite)
+- **Styling:** Tailwind CSS v4 (CSS-first configuration)
+- **Icons:** Lucide React
+- **Deployment:** Vercel
+
+---
+
+##  Getting Started (Run Locally)
+
+```bash
+git clone https://github.com/mhd-raneesh123/Sample_Portfolio.git
+cd sample_portfolio
+npm install
+npm run dev
+
+```
+## Deployment
+🔗 View My Portfolio: (Add your deployed link here)
