@@ -1,0 +1,12 @@
+@import "tailwindcss";
+
+@theme {
+  --color-f1-red: #FF1801;
+  --color-f1-dark: #15151E;
+  --color-f1-carbon: #2B2B35;
+  --color-f1-light: #F0F0F0;
+}
+
+body {
+  @apply bg-f1-dark text-f1-light;
+}
